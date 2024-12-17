@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello, everyone! 👋
 
-<!--
-**mangosku/mangosku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **ManGo**. I'm a Python Developer and over 7 years of practical experience.
 
-Here are some ideas to get you started:
+Currently, I'm working in the following stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend
+  - Python
+  - Go
+  - PostgreSQL, Redis, SQLite
+  - Nginx
+- Frontend
+  - TypeScript
+  - Javascript
+  - Angular, NgRx Signals
+  - Taiga UI, Tailwind CSS
+  - Leaflet
+  - Angular
+
+## Awesome GitHub repos
+
+My projects is not public
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/mangosku">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mangosku&theme=transparent" />
+  </a>
+  <a href="https://github.com/mangosku">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mangosku&theme=transparent" />
+  </a>
+  <a href="https://github.com/mangosku">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangosku&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br/>
+  <a href="https://github.com/mangosku">
+    <img src="https://komarev.com/ghpvc/?username=mangosku&color=blue&style=flat" />
+  </a>
+</p>
+
+## Thank you!
+
+If you want to give :octocat: GitHub star to any of my public projects (rare), **I would be very grateful**! 🥰
